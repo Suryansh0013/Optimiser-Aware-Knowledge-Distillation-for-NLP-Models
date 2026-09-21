@@ -176,7 +176,7 @@ NLP Models
 * DistilBERT
 
 Installation
-git clone https://github.com/Tanishakumar26/optimizer-aware-knowledge-distillation.git
+git clone https:https://github.com/Suryansh0013/Optimiser-Aware-Knowledge-Distillation-for-NLP-Models
 
 cd optimizer-aware-knowledge-distillation
 
